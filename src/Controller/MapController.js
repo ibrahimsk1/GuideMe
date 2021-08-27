@@ -10,10 +10,8 @@ export const mapInit = () => {
 export const addMarker = ({ lat, lng }) => {
     console.log({ lat, lng })
     store.state.Main.mapObject.Marker.Add({
-        // lat: lat,
-        // lon: lng,
-        lat: 41.01371789571470,
-        lon: 28.95547972584920,
+        lat: lat,
+        lon: lng,
         effect: true,
         zoom: 18,
         gotoPosition: true,

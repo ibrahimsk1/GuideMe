@@ -17,10 +17,7 @@ export const startOnboarding = () =>{
 export const getLocation = async () => {
     const { position, error } = await controlPosition()
     if (error.message == "NoError") {
-        //add marker
-        // const positionObj = { lat: position.coords.latitude, lng: position.coords.longitude };
-        console.log(position)
-        const positionObj = { lat:41.0137, lng: 28.9554 }; 
+        const positionObj = { lat: position.coords.latitude, lng: position.coords.longitude };
         addMarker(positionObj)
         store.commit("setPosition", positionObj)
         store.commit("setLocationStatus", "enabled")
