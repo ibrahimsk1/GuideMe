@@ -1,0 +1,21 @@
+{
+  "Header": {
+    "Help": "Help"
+  },
+
+  "InfoModal": {
+    "Header": "Welcome To Guide Me",
+    "Location":"Allow Location Permission"
+  },
+
+  "MainModal": {
+    "Header": "Where Can I Go?"
+  },
+
+  "Table":{
+    "Empty":"No Data"
+  }
+
+
+ 
+}
