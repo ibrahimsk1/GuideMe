@@ -1,3 +1,3 @@
-# GuideMe
+# "Guide Me" Hackathon
 
 
