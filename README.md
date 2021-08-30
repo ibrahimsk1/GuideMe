@@ -22,7 +22,7 @@ GuideMe is an application that answers the question "Where can I go by private c
 
 ## Map
 City Map API developed by Istanbul Metropolitan Municipality was used in solutions such as map, marker addition, location selection.
-Source:https://sehirharitasi.ibb.gov.tr/developer/index.html
+Source: https://sehirharitasi.ibb.gov.tr/developer/index.html
 
 ## Distance Polygon
 The openrouteservice service was used to extract the polygon that can be reached at a certain distance with the vehicle.
