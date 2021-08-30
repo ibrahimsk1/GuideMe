@@ -1,0 +1,52 @@
+{
+    "Header": {
+        "Help": "Yardım"
+      },
+
+    "InfoModal": {
+      "Header": "Guide Me Uygulamasına Hoşgeldin",
+      "Location":"Konum Ayarlarını Aç",
+      "Information":"Uzaklık ve Tesis Bigilerini Seç",
+      "Select":"Gitmek İstediğin Yere Tıkla.Rotan Ayağına Gelsin.",
+      "Warning":"Menüyü açmak için sol üst köşedeki GUIDE ME butonuna tıklaman yeterli!",
+      "Start":"Başla"
+      
+      
+    },
+    
+    "MainModal": {
+        "Header": "Nereye Gidebilirim?",
+        "Location":"Konum :" ,
+        "Settings":"Ayarlar",
+        "LocGet":"Konum Alınıyor",
+        "LocNow":"Şu anki Konumunuz",
+        "NoLoc":"Konuma Erişilemedi",
+        "FromMap":"Haritadan Seç",
+        "LocSelected":"Konum Seçildi",
+        "Duration":"Süre:",
+        "DurationPlaceholder":"Süreyi Seç",
+        "Facility":"Tesis",
+        "FacilityPlaceholder":"Tesisi Seç",
+        "Search":"Ara",
+        "Results":"Sonuçlar",
+        "Clear":"Temizle",
+        "GreenArea":"Yeşil Alan",
+        "HealthCare":"Sağlık",
+        "15min":"15dk",
+        "30min":"30dk",
+        "60min":"60dk",
+        "Error":"'Süre , Tesis ve Konum Seçiniz.'"
+
+    },
+
+    "WaitingModal":{
+      "Info":"Hesaplama Yapılıyor.Lütfen Bekleyiniz."
+    },
+
+    "Table":{
+        "Empty":"Veri Yok",
+        "Select":"Seç"
+
+      }
+
+}

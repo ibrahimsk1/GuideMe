@@ -1,0 +1,27 @@
+// overwrite bootstrap variables here
+$primary: #005cff;
+
+html {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    height: 100vh;
+}
+
+
+.mainContainer{
+    flex: 1 1 auto;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 100%;
+    position: relative; 
+}
+
+.headerShadow{
+    box-shadow: 0px 2px 4px -1px #000
+}
