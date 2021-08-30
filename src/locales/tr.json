@@ -1,0 +1,20 @@
+{
+    "Header": {
+        "Help": "Yardım"
+      },
+
+    "InfoModal": {
+      "Header": "Guide Me Uygulamasına Hoşgeldin",
+      "Location":"Konum Ayarlarını Aç"
+      
+    },
+    
+    "MainModal": {
+        "Header": "Nereye Gidebilirim?"
+    },
+
+    "Table":{
+        "Empty":"Veri Yok"
+      }
+
+}
