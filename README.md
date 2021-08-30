@@ -1,11 +1,11 @@
 # "Guide Me"
 
+GuideMe is an application that answers the question "Where can I go by private car from where I am in 15 minutes, 30 minutes and 1 hour?"
+
 Demo Link :https://ibrahimsk1.github.io/GuideMe/ 
 
-## ! WARNING
+## Warning!
 The map only covers Istanbul and its surroundings. If your location is not here, turn off the location feature and use the application by selecting a location around Istanbul with the select from map feature.
-
-GuideMe is an application that answers the question "Where can I go by private car from where I am in 15 minutes, 30 minutes and 1 hour?"
 
 ## Features
 - Global Error Handling
