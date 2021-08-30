@@ -5,6 +5,8 @@ var dotenv = require('dotenv');
 
 module.exports = {
 
+  publicPath: '/GuideMe/',
+
   configureWebpack: {
     plugins: [
     new webpack.DefinePlugin({
