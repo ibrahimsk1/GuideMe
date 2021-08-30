@@ -9,7 +9,8 @@
     "build": "vue-cli-service build",
     "test:unit": "vue-cli-service test:unit",
     "lint": "vue-cli-service lint",
-    "dev": "vue-cli-service serve"
+    "dev": "vue-cli-service serve",
+    "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
     "@vue/eslint-config-airbnb": "^5.3.0",
@@ -42,7 +43,8 @@
     "eslint-plugin-vue": "^7.11.1",
     "pug-plain-loader": "^1.1.0",
     "sass-loader": "^10.0.0",
-    "vue-template-compiler": "^2.6.14"
+    "vue-template-compiler": "^2.6.14",
+    "execa": "latest"
   },
   "postcss": {
     "plugins": {
