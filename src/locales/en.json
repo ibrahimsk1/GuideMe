@@ -1,0 +1,51 @@
+{
+  "Header": {
+    "Help": "Help"
+  },
+
+  "InfoModal": {
+    "Header": "Welcome To Guide Me",
+    "Location":"Allow Location Permission",
+    "Information":"Choose Distance and Facility Options",
+    "Select":"Click Where You Want to Go",
+    "Warning":"Just click the GUIDE ME button in the upper left corner to open the menu!",
+    "Start":"Start"
+  },
+
+  "MainModal": {
+    "Header": "Where Can I Go?",
+    "Location":"Location :" ,
+    "Settings":"Settings",
+    "LocGet":"Getting Location",
+    "LocNow":"Your Current Position",
+    "NoLoc":"Location Unreachable",
+    "FromMap":"Choose From Map",
+    "LocSelected":"Location Selected",
+    "Duration":"Duration:",
+    "DurationPlaceholder":"Choose Duration",
+    "Facility":"Facility",
+    "FacilityPlaceholder":"Choose Facility",
+    "Search":"Search",
+    "Results":"Results",
+    "Clear":"Clear",
+    "GreenArea":"Park",
+    "HealthCare":"Healthcare",
+    "15min":"15min",
+    "30min":"30min",
+    "60min":"60min",
+    "Error":"Choose Duration , Facility and Location"
+  },
+
+  "WaitingModal":{
+    "Info":"Calculation is in progress. Please wait."
+  },
+
+
+  "Table":{
+    "Empty":"No Data",
+    "Select":"Select"
+  }
+
+
+ 
+}
